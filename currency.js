@@ -1,5 +1,5 @@
 const codes = [
-  { 'USD': '🇺🇲' },
-  { 'EUR': '🇺🇲' }
+  { code: 'USD' , flag : '🇺🇲'},
+   { code: 'EUR' , flag : '🇺🇲'},
 ];
 
