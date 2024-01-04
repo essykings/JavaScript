@@ -1,4 +1,4 @@
-const countries = [
+const currencies = [
   {
     countryname: "United Arab Emirates",
     name: "United Arab Emirates dirham",
