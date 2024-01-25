@@ -1,11 +1,11 @@
 const emojis = [
   {
     text: "Awful",
-    url: "https://essykings.github.io/JavaScript/svg-emojis/Cry.svg"
+    url: "https://essykings.github.io/JavaScript/svg-emojis/Disappointed.svg"
   },
  {
     text: "Bad",
-    url: "https://essykings.github.io/JavaScript/svg-emojis/Disappointed.svg"
+    url: "https://essykings.github.io/JavaScript/svg-emojis/Sad.svg"
   },
   {
     text: "Okay",
@@ -17,6 +17,6 @@ const emojis = [
   },
   {
     text: "Great",
-    url: "https://essykings.github.io/JavaScript/svg-emojis/Beaming_smile.svg"
+    url: "https://essykings.github.io/JavaScript/svg-emojis/love.svg"
   }]
   
